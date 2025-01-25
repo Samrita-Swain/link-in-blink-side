@@ -190,7 +190,7 @@ nav {
 
 /* Features Section */
 .features {
-  padding: 50px 90px;
+  padding: 50px 50px;
   text-align: center;
   background: #1a1a1a; /* Slightly lighter black */
 }
@@ -221,7 +221,7 @@ nav {
 
 /* About Section */
 .about {
-  padding: 50px 90px;
+  padding: 50px 50px;
   background: #121212;
   text-align: center;
   /* border-top: 2px solid #f0c040; */
@@ -234,7 +234,7 @@ nav {
 
 /* Contact Section */
 .contact {
-  padding: 50px 90px;
+  padding: 50px 50px;
   background: #1a1a1a;
   text-align: center;
   color: #fff;
@@ -268,7 +268,7 @@ footer {
 
 
 .questions {
-  padding: 50px 90px;
+  padding: 50px 50px;
   background: #121212;
   /* text-align: center; */
   /* border-top: 2px solid #f0c040; */
@@ -326,7 +326,7 @@ button.accordion-toggle::before {
   padding: 20px;
   /* max-width: 1200px; */
   margin: auto;
-  padding: 50px 90px;
+  padding: 50px 50px;
   background: #1a1a1a;
   text-align: center;
   color: #fff;
