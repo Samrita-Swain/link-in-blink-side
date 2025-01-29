@@ -33,7 +33,7 @@ header {
   border-bottom: 1px solid #6007955c;
 }
 header a{
-  color: #600795;
+  color: #9951a4;
   font-size: 20px;
 }
 header ul li{
@@ -554,7 +554,7 @@ footer p{
 }
 @media (max-width: 695px) {
   .question-text {
-    font-size: 27px !important;
+    font-size: 22px !important;
 }
 }
 @media (max-width: 991px) {
@@ -571,19 +571,19 @@ footer p{
   text-align: center;
 }
 p{
-  font-size: 20px;
+  font-size: 20px !important;
   font-weight: 500;
 }
 .last-header{
-  font-size: 30px !important;
+  font-size: 25px !important;
   font-weight: 700;
 }
 .privacy-header{
-  font-size: 30px !important;
+  font-size: 25px !important;
   font-weight: 700;
 }
 .section-title{
-  font-size: 30px !important;
+  font-size: 25px !important;
   font-weight: 700;
 }
 .card p {
@@ -593,16 +593,19 @@ p{
   font-size: 25px;
 }
 .question-text {
-  font-size: 30px;
+  font-size: 25px;
 }
 .questions h2 {
-  font-size: 30px;
+  font-size: 25px;
 }
 .question-header {
   margin-top: 60px;
 }
 .about h2 {
-  font-size: 30px;
+  font-size: 25px;
+}
+.questions {
+  padding: 50px 50px !important;
 }
 }
 
